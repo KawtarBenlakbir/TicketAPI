@@ -1,0 +1,24 @@
+# Ticket Application
+
+## Description
+
+This project is a Ticket Management Application that allows users to create, view, update, and delete tickets. The application consists of a backend API built with .NET and a frontend application built with Angular.
+
+## Prerequisites
+
+Before running the application, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/en/) (for the frontend)
+- [Angular CLI](https://angular.io/cli) (for the frontend)
+- [.NET SDK](https://dotnet.microsoft.com/download) (for the backend)
+- [Git](https://git-scm.com/) (for version control)
+
+## Setup Instructions
+
+### 1. Clone the Repository
+
+Clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/your-username/ticketAPI.git
+cd ticketAPI
